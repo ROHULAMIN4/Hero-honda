@@ -1,0 +1,28 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.header-section {
+  background-color: #264653;
+}
+#btn-style{
+    background-color: #E76F51;
+    color: white;
+   padding: 10px 30px;
+}
+
+
+.tx-color{
+    color: #E76F51;
+}
+#tx-colorh{
+    color: #E76F51;
+}
+.img-gray-style{
+    filter: grayscale(100%);
+}
+video{
+    width: 100%;
+    border-radius: 20px;
+    margin: 10px;
+}
